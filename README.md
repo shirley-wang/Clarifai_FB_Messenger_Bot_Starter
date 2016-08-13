@@ -1,4 +1,4 @@
-# Facebook_Messenger_Bot_Starter
+# Facebook Messenger Bot Starter
 A Facebook messenger bot that gives me tags of an image back by using Clarifai API
 
 # Usage
