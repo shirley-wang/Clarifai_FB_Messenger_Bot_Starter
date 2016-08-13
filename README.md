@@ -20,5 +20,5 @@ $ git push heroku master
 
 ### Logs
 ```sh
-$ heroku logs tail
+$ heroku logs --tail
 ```
