@@ -1,0 +1,17 @@
+{
+  "name": "messenger_bot",
+  "version": "1.0.0",
+  "description": "A messenger bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shirley Wang",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "clarifai": "^1.2.1",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
